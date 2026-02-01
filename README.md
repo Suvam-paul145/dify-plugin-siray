@@ -45,10 +45,6 @@ Before you begin, ensure you have the following installed:
 
 Refer to the documentation for each individual plugin for detailed usage instructions.
 
-## Roadmap
-
-See the [open issues](https://github.com/Suvam-paul145/dify-plugin-siray/issues) for a list of proposed features and known issues.
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
