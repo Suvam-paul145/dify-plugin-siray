@@ -14,6 +14,7 @@ Dify plugin integrations maintained by Siray. This repository contains a collect
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+- [Maintainers & Mentors](#maintainers--mentors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -62,8 +63,29 @@ Don't forget to give the project a star! ⭐
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
+## Maintainers & Mentors
+
+### Mentors
+
+Our mentors are experienced contributors who guide new contributors and help maintain project quality. They are here to:
+
+- **Guide Contributors**: Provide guidance and support to new and existing contributors
+- **Review Code**: Ensure code quality and adherence to project standards
+- **Foster Learning**: Create a welcoming environment for learning and growth
+- **Drive Development**: Lead technical discussions and shape the project's direction
+
+If you're new to the project, feel free to reach out to our mentors for guidance on:
+
+- Getting started with contributions
+- Understanding the codebase and architecture
+- Best practices for plugin development
+- Code review feedback and improvement suggestions
+
+*Interested in becoming a mentor? Active contributors who demonstrate expertise and a commitment to helping others are welcome to apply!*
+
 ## Acknowledgments
 
 - [Dify](https://dify.ai/) - The AI application development platform
 - All contributors who help improve this project
+- Our mentors who guide and support the community
 - The open source community for inspiration and support

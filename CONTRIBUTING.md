@@ -11,6 +11,7 @@ Thank you for your interest in contributing to Dify Plugin Siray! We welcome con
 - [Style Guidelines](#style-guidelines)
 - [Reporting Bugs](#reporting-bugs)
 - [Suggesting Enhancements](#suggesting-enhancements)
+- [Getting Help from Mentors](#getting-help-from-mentors)
 
 ## Code of Conduct
 
@@ -95,5 +96,17 @@ We welcome suggestions for new features or improvements! When suggesting enhance
 ## Questions?
 
 If you have questions about contributing, feel free to open an issue for discussion.
+
+## Getting Help from Mentors
+
+Our project mentors are here to help you succeed as a contributor! Mentors can assist with:
+
+- **Onboarding**: Getting set up with the development environment and understanding the codebase
+- **Code Reviews**: Providing constructive feedback on your pull requests
+- **Technical Guidance**: Answering questions about architecture, design patterns, and best practices
+- **Problem Solving**: Helping debug issues and overcome technical challenges
+- **Career Development**: Sharing insights about open source contribution and professional growth
+
+Don't hesitate to tag mentors in issues or pull requests when you need guidance!
 
 Thank you for contributing to Dify Plugin Siray! 🎉
